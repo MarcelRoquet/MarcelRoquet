@@ -39,7 +39,7 @@
 
 ### 💬 Contacto
 <p align="center">
-  - 📧 **Correo Electrónico**: [marcelroquet@gracia.lasalle.cat]
+  - 📧 **Correo Electrónico**: [marcelroquet@gracia.lasalle.cat](mailto:marcelroquet@gracia.lasalle.cat)
 </p>
 
 <p align="center">
