@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy Marcel Roquet!</h1>      
+  <h1>¡Hola! 👋 Soy **Marcel Roquet**</h1>      
 </div>
 
 <p align="center">
@@ -28,9 +28,13 @@
 ---
 
 ### 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelroquet&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-</p>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; justify-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelroquet&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelroquet&layout=compact&theme=radical" alt="Lenguajes más usados en GitHub" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelroquet&theme=radical" alt="Racha de contribuciones" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelroquet&theme=radical" alt="Repositorios por lenguaje" width="400"/>
+</div>
+
 ---
 
 ### 💬 Contacto
@@ -41,4 +45,3 @@
 <p align="center">
   ¡Gracias por visitar mi perfil! 🚀
 </p>
-
