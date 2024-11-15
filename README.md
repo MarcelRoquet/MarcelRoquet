@@ -37,6 +37,14 @@
 
 ---
 
+### 💼 Proyectos y Trabajos
+<p align="center">
+  Aquí puedes ver algunos de mis trabajos/actividades :  
+  - 🌐 [Mi Portafolio - Marcel Roquet](https://jo-el.es/user/Marcel)
+</p>
+
+---
+
 ### 💬 Contacto
 <p align="center">
   - 📧 **Correo Electrónico**: [marcelroquet@gracia.lasalle.cat](mailto:marcelroquet@gracia.lasalle.cat)
