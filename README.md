@@ -29,14 +29,13 @@
 
 ### 📈 Estadísticas de GitHub
 <p align="center">
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=marcelroquet&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelroquet&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
 </p>
-
 ---
 
 ### 💬 Contacto
 <p align="center">
-  - 📧 **Correo Electrónico**: [marcelroquet@gracia.lasalle.cat](mailto:marcelroquet@gracia.lasalle.cat)
+  - 📧 **Correo Electrónico**: [marcelroquet@gracia.lasalle.cat]
 </p>
 
 <p align="center">
