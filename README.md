@@ -28,7 +28,7 @@
 ---
 
 ### 📈 Estadísticas de GitHub
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; justify-items: center;">
+<div align="center" style="display: grid ; grid-template-columns: repeat(2, 1fr);  grid-template-rows: repeat(2, 100px); gap: 20px; justify-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelroquet&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelroquet&layout=compact&theme=radical" alt="Lenguajes más usados en GitHub" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelroquet&theme=radical" alt="Racha de contribuciones" width="400"/>
