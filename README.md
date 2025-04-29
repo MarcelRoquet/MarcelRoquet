@@ -5,45 +5,41 @@
 <p align="center">
   <img src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" alt="Trabajo en la computadora" width="250" />
 </p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="center">
-  🚀 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y futuro **Desarrollador**  
-  Pero sobre todo, **✨ Apasionado por la tecnología y el aprendizaje continuo**.
-</p>
 
+<p align="center">🚀 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y futuro **Desarrollador** Pero sobre todo, **✨ Apasionado por la tecnología y el aprendizaje continuo**.</p>
+
+###
 ---
 
-### 🛠 Tecnologías y Herramientas
-<p align="center">
-  - **Lenguajes de Programación**:
-    - Java ☕
-    - Python 🐍
-    - HTML5 & CSS3 🌐
-  - **Bases de Datos**:
-    - MySQL 🗃️
-  - **Herramientas**:
-    - Git 🦸‍♂️ (Control de versiones)
-</p>
+<h3 align="left">🛠 Tecnologías y Herramientas</h3>
 
----
+###
 
-### 📈 Estadísticas de GitHub
-<div align="center" style="display: grid ; grid-template-columns: repeat(2, 1fr);  grid-template-rows: repeat(2, 100px); gap: 20px; justify-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelroquet&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelroquet&layout=compact&theme=radical" alt="Lenguajes más usados en GitHub" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelroquet&theme=radical" alt="Racha de contribuciones" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelroquet&theme=radical" alt="Repositorios por lenguaje" width="400"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+###
 ---
 
-### 💼 Proyectos y Trabajos
-<p align="center">
-  Aquí puedes ver algunos de mis trabajos/actividades :  
-  - 🌐 [Mi Portafolio - Marcel Roquet](https://jo-el.es/user/Marcel)
-</p>
-
----
 
 ### 💬 Contacto
 <p align="center">
