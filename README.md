@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="center">🚀Soy un estudiante de DAM muy motivado y con ganas de aprender y mejorar haciendo prácticas en una empresa. Me apasiona el desarollo de software, web y el manejo de datos. </p>
+<p align="center">🚀Soy un estudiante de DAM muy motivado y con ganas de aprender y mejorar haciendo prácticas en una empresa. Me apasiona el desarrollo de software, web y el manejo de datos. </p>
 
 ###
 ---
@@ -39,8 +39,8 @@
 
 ### 💬 Contacto
 <div align="center">
-📧 Email: marcelroquet@gracia.lasalle.cat
-
+📧 <a href="mailto:marcelroquet@gracia.lasalle.cat">marcelroquet@gracia.lasalle.cat</a>  
+🌐 <a href="https://github.com/tuusuario" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">LinkedIn</a>
 </div>
 <div align="center">
 ¡Gracias por visitar mi perfil! 🚀
