@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy **Marcel Roquet**</h1>      
+    <img src="github-header-banner (1).png" alt="Banner" width="400" />
 </div>
 
 <p align="center">
