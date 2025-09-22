@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="center">🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de prácticas formativas. </p>
+<p align="center">🚀Soy un estudiante de DAM muy motivado y con ganas de aprender y mejorar haciendo prácticas en una empresa. Me apasiona el desarollo de software, web y el manejo de datos. </p>
 
 ###
 ---
