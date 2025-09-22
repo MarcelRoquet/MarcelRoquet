@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="center">🚀 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y futuro **Desarrollador** Pero sobre todo, **✨ Apasionado por la tecnología y el aprendizaje continuo**.</p>
+<p align="center">🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de prácticas formativas. </p>
 
 ###
 ---
