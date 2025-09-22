@@ -1,10 +1,7 @@
-<div align="center">
-    <img src="github-header-banner (1).png" alt="Banner" width="400" />
-</div>
 
-<p align="center">
-  <img src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" alt="Trabajo en la computadora" width="250" />
-</p>
+<div align="center">
+    <img src="github-header-banner (1).png" alt="Banner" style="width:100%; max-width:100%;" />
+</div>
 <h3 align="left">👩‍💻  About Me</h3>
 
 
