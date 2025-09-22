@@ -36,7 +36,7 @@
 ###
 ---
 
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarcelRoquet/MarcelRoquet/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 💬 Contacto
