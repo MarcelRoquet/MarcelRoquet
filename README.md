@@ -26,19 +26,11 @@
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/> </div>
 
 
-
-###
-
 <h3 align="left">🛠Herramientas de desarrollo</h3>
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/> </div>
 
-
 ###
 ---
-
-![Snake animation](https://raw.githubusercontent.com/MarcelRoquet/MarcelRoquet/output/github-contribution-grid-snake.svg)
-
-
 
 ### 💬 Contacto
 <div align="center">
