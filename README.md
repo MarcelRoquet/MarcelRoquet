@@ -32,6 +32,14 @@
 ###
 ---
 
+### 🏆 Trofeos  
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcelRoquet&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
 ### 💬 Contacto
 <div align="center">
 📧 <a href="mailto:marcelroquet@gracia.lasalle.cat">marcelroquet@gracia.lasalle.cat</a>  
